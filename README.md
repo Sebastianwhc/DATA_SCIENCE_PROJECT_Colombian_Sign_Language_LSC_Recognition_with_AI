@@ -1,5 +1,5 @@
 
-🤖 Colombian Sign Language (LSC) Recognition with AI
+##🤖 Colombian Sign Language (LSC) Recognition with AI
 This project is a real-time prototype for recognizing static letters of the Colombian Sign Language (LSC) alphabet using a webcam.
 
 It uses MediaPipe for hand landmark detection and extraction, and a Sequential Neural Network (MLP) built with TensorFlow/Keras to classify the corresponding sign.
